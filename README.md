@@ -4,7 +4,6 @@
   A simple project with basic bootstrap structures which is fully responsive.
 
 	DESCRIPTION & FEATURES-
-	
   		* Jumbotron
   		* Accordian Menu
   		* Grid System
